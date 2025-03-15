@@ -1,6 +1,6 @@
 # dev@github:~$ whoami
 
-- 👋 Hi, I’m @VglntzrX-MKII<br><br>- 👀 I’m interested in the ever-evolving world of technology, especially Windows and Linux systems! I love diving deep into their functionalities and exploring their potential.<br><br>- 🌱 I’m currently learning the exciting world of Cybersecurity (always keeping up with the latest threats! ) and sharpening my skills in Docker containers (making those systems dance to my tune! )<br><br><br>- ⚡ Fun fact:  I'm proficient in Python, Bash, C, and Java - basically a programming polyglot ️ (I speak code fluently!).
+- 👋 Hi, I’m @VglntzrX-MKII<br><br>- 👀 I’m interested in the ever-evolving world of technology, mainly Windows and Linux systems! I love diving deep into their functionalities and exploring their potential.<br><br>- 🌱 I’m currently learning the exciting world of Cybersecurity (always keeping up with the latest threats! ) and sharpening my skills in Docker containers (making those systems dance to my tune! )<br><br><br>- ⚡ Fun fact:  My love language is music.
 
 
 # 💻 Tech Stack:
